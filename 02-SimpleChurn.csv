@@ -1,0 +1,1001 @@
+Satisfaction,Age,churn
+Very Happy,38,0
+OK,64,0
+Very Unhappy,30,1
+OK,52,0
+Very Happy,85,0
+Unhappy,23,1
+Very Unhappy,57,1
+Unhappy,88,1
+Very Unhappy,64,1
+Very Happy,18,0
+Happy,55,0
+Unhappy,57,1
+Unhappy,59,1
+OK,34,0
+OK,24,0
+Happy,44,0
+Very Unhappy,76,1
+OK,28,0
+Happy,68,0
+Happy,53,0
+OK,49,0
+Unhappy,30,1
+OK,25,0
+OK,46,0
+OK,84,0
+Happy,24,0
+Very Unhappy,80,1
+Very Happy,53,0
+Unhappy,51,1
+Unhappy,76,1
+OK,21,0
+Very Unhappy,21,1
+Unhappy,67,1
+Very Unhappy,18,1
+OK,18,0
+Happy,45,0
+Happy,67,0
+OK,55,0
+Unhappy,70,1
+Unhappy,74,1
+Very Happy,89,0
+Happy,59,0
+Unhappy,88,1
+Very Unhappy,71,1
+Unhappy,83,1
+Very Happy,50,0
+Unhappy,48,1
+Unhappy,78,1
+Unhappy,27,1
+Unhappy,48,1
+OK,36,0
+OK,82,0
+Very Happy,47,0
+OK,18,0
+Unhappy,68,1
+Very Unhappy,55,1
+Very Happy,73,0
+Unhappy,85,1
+Happy,19,0
+Unhappy,43,1
+Very Unhappy,78,1
+OK,70,0
+Very Happy,67,0
+Very Happy,74,0
+Very Unhappy,48,1
+Unhappy,46,1
+OK,34,0
+OK,48,0
+OK,90,0
+Very Unhappy,81,1
+Very Happy,88,0
+Very Happy,46,0
+Unhappy,35,1
+Very Happy,28,0
+Very Happy,66,0
+Very Unhappy,88,1
+OK,37,0
+Very Happy,70,0
+OK,79,0
+Very Unhappy,34,1
+Happy,25,0
+Happy,40,0
+Unhappy,45,1
+Very Unhappy,77,1
+Very Unhappy,30,1
+Unhappy,48,1
+Unhappy,44,1
+OK,53,0
+OK,83,0
+Very Unhappy,28,1
+Happy,45,0
+Unhappy,27,1
+Happy,45,0
+OK,22,0
+Happy,50,0
+Very Happy,60,0
+Happy,78,0
+Happy,79,0
+OK,78,0
+Very Unhappy,35,1
+OK,46,0
+Very Happy,48,0
+Happy,84,0
+Happy,74,0
+Very Happy,81,0
+Unhappy,41,1
+Happy,56,0
+Very Happy,47,0
+Very Happy,23,0
+Very Unhappy,30,1
+Very Unhappy,85,1
+Happy,53,0
+Very Unhappy,21,1
+Very Happy,18,0
+Very Happy,37,0
+OK,77,0
+Very Happy,85,0
+Unhappy,89,1
+Unhappy,85,1
+Very Happy,70,0
+Very Happy,55,0
+OK,50,0
+Very Happy,32,0
+Very Unhappy,57,1
+Happy,23,0
+Happy,89,0
+Very Happy,38,0
+Very Unhappy,90,1
+Happy,67,0
+Happy,85,0
+Very Happy,75,0
+Very Unhappy,90,1
+Very Unhappy,48,1
+Happy,78,0
+OK,75,0
+Very Happy,18,0
+Unhappy,38,1
+OK,50,0
+Happy,70,0
+Very Happy,78,0
+Happy,80,0
+Very Unhappy,46,1
+Very Unhappy,84,1
+Very Happy,88,0
+Very Happy,51,0
+Unhappy,37,1
+Very Happy,25,0
+Very Happy,32,0
+Happy,65,0
+Happy,28,0
+Very Unhappy,48,1
+Very Happy,80,0
+Very Happy,22,0
+Happy,71,0
+OK,23,0
+Unhappy,53,1
+Unhappy,33,1
+OK,33,0
+Happy,26,0
+Unhappy,67,1
+Very Unhappy,23,1
+Unhappy,51,1
+OK,30,0
+Happy,90,0
+Very Happy,57,0
+Unhappy,86,1
+Happy,87,0
+Very Happy,55,0
+Unhappy,47,1
+Very Unhappy,49,1
+Very Happy,64,0
+Very Unhappy,26,1
+Unhappy,74,1
+Happy,46,0
+Very Unhappy,54,1
+Very Unhappy,41,1
+Unhappy,19,1
+Unhappy,86,1
+Happy,38,0
+Happy,71,0
+Unhappy,38,1
+Happy,80,0
+Very Unhappy,46,1
+Very Happy,48,0
+Unhappy,79,1
+OK,79,0
+Unhappy,47,1
+Happy,37,0
+Very Unhappy,49,1
+Very Unhappy,20,1
+OK,73,0
+Very Unhappy,61,1
+Very Unhappy,22,1
+Happy,49,0
+Happy,62,0
+Very Unhappy,76,1
+OK,90,0
+Very Unhappy,23,1
+Happy,80,0
+Very Unhappy,27,1
+Happy,42,0
+Unhappy,49,1
+OK,27,0
+Happy,63,0
+Unhappy,86,1
+Very Happy,53,0
+Very Unhappy,38,1
+Very Unhappy,36,1
+Very Unhappy,56,1
+OK,89,0
+Happy,25,0
+Very Happy,85,0
+Happy,66,0
+Unhappy,62,1
+Unhappy,50,1
+OK,78,0
+Unhappy,52,1
+Very Unhappy,87,1
+OK,80,0
+Unhappy,38,1
+Unhappy,82,1
+Happy,30,0
+Very Unhappy,81,1
+Very Happy,81,0
+Happy,57,0
+Very Happy,73,0
+Unhappy,27,1
+Happy,30,0
+Unhappy,57,1
+Unhappy,48,1
+OK,68,0
+Unhappy,47,1
+Happy,51,0
+Very Happy,24,0
+Unhappy,85,1
+Unhappy,40,1
+Very Unhappy,78,1
+Very Unhappy,79,1
+OK,68,0
+Very Happy,62,0
+OK,80,0
+Happy,56,0
+Happy,73,0
+OK,24,0
+Happy,56,0
+Happy,35,0
+Very Unhappy,82,1
+Unhappy,74,1
+OK,24,0
+Unhappy,65,1
+Very Happy,38,0
+Happy,26,0
+Unhappy,39,1
+Very Happy,78,0
+OK,59,0
+OK,62,0
+Very Unhappy,43,1
+OK,88,0
+Very Happy,47,0
+Unhappy,70,1
+Very Happy,40,0
+Very Unhappy,67,1
+OK,64,0
+Very Unhappy,61,1
+Happy,46,0
+Happy,31,0
+Very Unhappy,74,1
+OK,21,0
+Very Unhappy,67,1
+OK,58,0
+Very Unhappy,56,1
+Happy,47,0
+Very Happy,65,0
+Unhappy,55,1
+Happy,39,0
+OK,28,0
+Happy,29,0
+Happy,81,0
+Happy,68,0
+Unhappy,18,1
+Happy,85,0
+Very Unhappy,22,1
+Happy,55,0
+Unhappy,87,1
+Happy,59,0
+Very Happy,43,0
+OK,88,0
+Happy,57,0
+Happy,47,0
+Unhappy,55,1
+Very Happy,31,0
+OK,19,0
+Happy,44,0
+OK,24,0
+Happy,47,0
+Unhappy,56,1
+Unhappy,33,1
+Unhappy,66,1
+Very Happy,42,0
+Unhappy,68,1
+Very Happy,26,0
+Very Happy,32,0
+OK,69,0
+Happy,31,0
+Unhappy,80,1
+OK,51,0
+Unhappy,37,1
+Happy,83,0
+Unhappy,35,1
+Unhappy,36,1
+Very Happy,72,0
+OK,24,0
+Happy,20,0
+Very Happy,56,0
+OK,45,0
+Unhappy,25,1
+Unhappy,23,1
+Happy,69,0
+Very Happy,26,0
+Unhappy,58,1
+OK,38,0
+Very Happy,47,0
+Very Happy,46,0
+Unhappy,60,1
+Unhappy,45,1
+OK,64,0
+OK,72,0
+Very Unhappy,88,1
+OK,44,0
+Very Happy,46,0
+Unhappy,90,1
+Very Happy,30,0
+OK,39,0
+Happy,23,0
+Very Happy,51,0
+OK,34,0
+Very Happy,36,0
+Very Unhappy,74,1
+OK,90,0
+Very Unhappy,74,1
+Very Happy,50,0
+Happy,89,0
+Very Happy,59,0
+OK,29,0
+Unhappy,22,1
+Very Unhappy,59,1
+Unhappy,31,1
+OK,21,0
+Unhappy,72,1
+Happy,80,0
+OK,61,0
+OK,33,0
+Very Happy,63,0
+Happy,37,0
+Very Happy,41,0
+OK,33,0
+Very Unhappy,26,1
+Happy,58,0
+Unhappy,38,1
+OK,88,0
+Very Happy,79,0
+Unhappy,44,1
+Very Unhappy,19,1
+Happy,26,0
+OK,44,0
+Happy,71,0
+Very Happy,51,0
+Very Happy,51,0
+Very Unhappy,35,1
+OK,88,0
+Very Happy,69,0
+Happy,26,0
+OK,18,0
+Very Happy,81,0
+Happy,34,0
+Unhappy,78,1
+OK,70,0
+Happy,78,0
+Very Unhappy,56,1
+Unhappy,43,1
+Happy,49,0
+Very Unhappy,89,1
+Unhappy,43,1
+Very Unhappy,86,1
+OK,39,0
+Very Happy,73,0
+OK,44,0
+Happy,86,0
+OK,26,0
+Unhappy,47,1
+OK,77,0
+Unhappy,34,1
+Very Unhappy,80,1
+Happy,45,0
+Happy,54,0
+Happy,55,0
+Happy,33,0
+Unhappy,60,1
+Very Happy,30,0
+OK,86,0
+Very Unhappy,33,1
+OK,83,0
+Very Happy,27,0
+Very Happy,40,0
+Very Happy,30,0
+OK,65,0
+OK,25,0
+Happy,34,0
+Very Happy,73,0
+Very Happy,25,0
+OK,38,0
+Very Happy,69,0
+OK,45,0
+Very Unhappy,85,1
+Happy,53,0
+OK,45,0
+Happy,44,0
+Unhappy,48,1
+Very Unhappy,31,1
+Very Happy,55,0
+OK,79,0
+Very Unhappy,43,1
+OK,84,0
+Very Unhappy,83,1
+Very Unhappy,36,1
+Very Unhappy,46,1
+Very Unhappy,55,1
+Very Unhappy,84,1
+OK,78,0
+Very Unhappy,82,1
+Very Happy,22,0
+OK,44,0
+Very Unhappy,36,1
+Very Unhappy,43,1
+Unhappy,82,1
+Happy,41,0
+Very Unhappy,29,1
+Very Unhappy,36,1
+Very Unhappy,85,1
+Very Happy,58,0
+OK,52,0
+Very Happy,32,0
+OK,32,0
+Unhappy,27,1
+Unhappy,61,1
+Unhappy,86,1
+OK,48,0
+Happy,44,0
+OK,86,0
+Unhappy,40,1
+Unhappy,89,1
+Happy,84,0
+Very Unhappy,20,1
+Unhappy,52,1
+Unhappy,75,1
+Happy,79,0
+Happy,49,0
+Very Happy,39,0
+Very Happy,33,0
+Very Happy,18,0
+Very Happy,62,0
+Very Happy,38,0
+Unhappy,68,1
+Happy,56,0
+Unhappy,63,1
+Happy,21,0
+Happy,30,0
+Very Happy,68,0
+Happy,75,0
+Unhappy,28,1
+OK,39,0
+Happy,39,0
+Very Unhappy,38,1
+Unhappy,24,1
+Very Unhappy,88,1
+Unhappy,49,1
+Very Unhappy,74,1
+Very Unhappy,87,1
+Happy,77,0
+Very Unhappy,84,1
+Happy,63,0
+Very Unhappy,81,1
+Very Happy,61,0
+Very Happy,27,0
+Very Unhappy,23,1
+Very Happy,20,0
+Very Unhappy,89,1
+Very Happy,45,0
+Happy,19,0
+Very Happy,82,0
+Very Happy,45,0
+Very Unhappy,67,1
+OK,67,0
+Unhappy,84,1
+OK,70,0
+Happy,82,0
+Very Unhappy,24,1
+Very Unhappy,77,1
+Happy,29,0
+Unhappy,29,1
+Happy,73,0
+OK,38,0
+Very Unhappy,44,1
+Very Unhappy,34,1
+Happy,85,0
+Very Happy,47,0
+OK,48,0
+Unhappy,71,1
+Very Happy,21,0
+Unhappy,49,1
+Very Happy,59,0
+Happy,87,0
+Very Unhappy,86,1
+Happy,32,0
+Unhappy,60,1
+Unhappy,20,1
+Very Happy,44,0
+Happy,23,0
+Very Happy,83,0
+Very Unhappy,23,1
+Happy,59,0
+Very Happy,21,0
+Happy,70,0
+OK,33,0
+Very Happy,46,0
+Very Happy,63,0
+Unhappy,73,1
+Very Unhappy,64,1
+OK,67,0
+OK,68,0
+Very Unhappy,70,1
+Unhappy,45,1
+Very Unhappy,55,1
+Very Happy,69,0
+OK,89,0
+OK,20,0
+Very Happy,20,0
+Unhappy,84,1
+Very Unhappy,62,1
+Very Happy,73,0
+Unhappy,55,1
+Happy,41,0
+Unhappy,19,1
+Very Unhappy,63,1
+Unhappy,81,1
+Very Happy,83,0
+Very Happy,33,0
+Unhappy,25,1
+OK,69,0
+Unhappy,23,1
+Unhappy,31,1
+Very Unhappy,72,1
+Unhappy,21,1
+Very Happy,21,0
+Unhappy,41,1
+Happy,76,0
+Very Happy,74,0
+Very Happy,40,0
+Very Unhappy,79,1
+Very Unhappy,86,1
+OK,36,0
+Very Unhappy,61,1
+Happy,85,0
+Very Happy,64,0
+Unhappy,87,1
+Happy,51,0
+Unhappy,47,1
+Unhappy,85,1
+Unhappy,80,1
+Happy,29,0
+OK,85,0
+OK,33,0
+Happy,54,0
+Happy,71,0
+Very Unhappy,37,1
+OK,51,0
+Happy,20,0
+Very Unhappy,56,1
+Very Unhappy,66,1
+Very Happy,86,0
+Unhappy,52,1
+Very Happy,43,0
+Very Unhappy,73,1
+Happy,63,0
+OK,84,0
+Very Unhappy,87,1
+Very Unhappy,76,1
+Happy,69,0
+Very Happy,33,0
+Unhappy,51,1
+Happy,79,0
+Unhappy,80,1
+Very Unhappy,47,1
+OK,47,0
+Very Happy,57,0
+Unhappy,65,1
+Very Unhappy,81,1
+OK,82,0
+Happy,45,0
+Very Unhappy,28,1
+Unhappy,80,1
+OK,74,0
+Happy,22,0
+Happy,60,0
+Very Unhappy,27,1
+Very Happy,84,0
+OK,49,0
+OK,40,0
+Very Unhappy,44,1
+Unhappy,47,1
+Unhappy,21,1
+Very Unhappy,84,1
+Unhappy,70,1
+Very Happy,45,0
+Happy,22,0
+Happy,18,0
+Happy,88,0
+Very Unhappy,36,1
+Very Happy,49,0
+OK,21,0
+Very Happy,29,0
+OK,70,0
+Very Happy,45,0
+Happy,41,0
+Happy,27,0
+Very Happy,32,0
+Happy,46,0
+Unhappy,41,1
+Happy,78,0
+Very Unhappy,90,1
+OK,24,0
+Very Unhappy,83,1
+Happy,65,0
+OK,84,0
+OK,75,0
+OK,60,0
+Unhappy,47,1
+Very Unhappy,62,1
+OK,42,0
+OK,21,0
+Very Happy,26,0
+Happy,44,0
+OK,78,0
+Very Unhappy,84,1
+Very Unhappy,60,1
+Very Unhappy,49,1
+Unhappy,87,1
+Unhappy,50,1
+Very Happy,30,0
+Unhappy,67,1
+Happy,44,0
+Unhappy,21,1
+Unhappy,76,1
+Happy,74,0
+Happy,52,0
+Very Happy,74,0
+Very Happy,28,0
+OK,79,0
+Very Happy,74,0
+Very Happy,30,0
+OK,22,0
+OK,20,0
+Very Unhappy,74,1
+OK,57,0
+Very Unhappy,71,1
+Very Unhappy,18,1
+Very Unhappy,27,1
+Very Unhappy,81,1
+OK,74,0
+Happy,19,0
+Unhappy,82,1
+Very Happy,45,0
+Happy,89,0
+Unhappy,32,1
+OK,61,0
+Very Unhappy,62,1
+Very Unhappy,68,1
+Unhappy,20,1
+Unhappy,83,1
+Unhappy,37,1
+Very Happy,24,0
+Very Happy,35,0
+Unhappy,72,1
+Happy,33,0
+Happy,51,0
+Unhappy,74,1
+Very Happy,32,0
+Very Happy,38,0
+Unhappy,30,1
+Happy,85,0
+Very Happy,72,0
+Very Unhappy,28,1
+Happy,82,0
+Happy,51,0
+OK,77,0
+Very Unhappy,64,1
+Happy,23,0
+Very Happy,36,0
+Happy,63,0
+Happy,69,0
+Very Happy,61,0
+Very Happy,58,0
+Happy,66,0
+OK,43,0
+Happy,49,0
+Very Unhappy,18,1
+Unhappy,74,1
+OK,50,0
+OK,87,0
+Unhappy,84,1
+Happy,85,0
+Very Happy,54,0
+Happy,20,0
+Very Happy,54,0
+Very Unhappy,31,1
+Very Unhappy,24,1
+Unhappy,19,1
+Very Happy,79,0
+Very Happy,81,0
+Very Happy,78,0
+Unhappy,69,1
+Happy,40,0
+Very Unhappy,81,1
+Happy,39,0
+Very Unhappy,61,1
+Unhappy,59,1
+Very Happy,23,0
+Unhappy,37,1
+Very Happy,90,0
+Unhappy,74,1
+Very Happy,74,0
+OK,43,0
+Happy,90,0
+OK,35,0
+Very Happy,81,0
+Very Unhappy,46,1
+Very Happy,45,0
+OK,49,0
+Happy,66,0
+Unhappy,50,1
+Happy,72,0
+OK,21,0
+OK,88,0
+Happy,41,0
+Very Unhappy,76,1
+OK,56,0
+Very Unhappy,57,1
+Happy,55,0
+Unhappy,31,1
+Very Happy,44,0
+Happy,87,0
+Very Unhappy,87,1
+Very Unhappy,49,1
+OK,66,0
+Happy,29,0
+Very Unhappy,31,1
+Very Unhappy,60,1
+Unhappy,18,1
+Unhappy,85,1
+Unhappy,28,1
+Unhappy,88,1
+Unhappy,85,1
+Very Unhappy,74,1
+Unhappy,86,1
+Happy,66,0
+Very Unhappy,49,1
+Happy,71,0
+Very Unhappy,19,1
+Very Unhappy,65,1
+Very Unhappy,45,1
+Very Happy,74,0
+OK,18,0
+Unhappy,86,1
+Very Happy,29,0
+Very Happy,70,0
+OK,23,0
+Unhappy,62,1
+Very Unhappy,69,1
+Unhappy,89,1
+Very Happy,20,0
+Very Happy,21,0
+Very Unhappy,86,1
+Happy,64,0
+Very Happy,42,0
+Very Happy,59,0
+Unhappy,88,1
+OK,85,0
+Unhappy,60,1
+OK,73,0
+Unhappy,25,1
+Unhappy,51,1
+Very Unhappy,25,1
+Very Unhappy,38,1
+Unhappy,57,1
+OK,22,0
+OK,87,0
+Unhappy,50,1
+Very Unhappy,22,1
+Very Unhappy,36,1
+Very Unhappy,27,1
+Happy,30,0
+Happy,85,0
+Very Happy,81,0
+Very Happy,81,0
+Happy,34,0
+Unhappy,77,1
+Very Unhappy,49,1
+Very Unhappy,69,1
+Very Happy,74,0
+Very Happy,23,0
+Very Unhappy,54,1
+Unhappy,78,1
+Very Unhappy,26,1
+OK,35,0
+Very Happy,42,0
+OK,19,0
+Very Unhappy,76,1
+Very Unhappy,18,1
+Happy,86,0
+Very Unhappy,28,1
+Happy,21,0
+OK,37,0
+Unhappy,39,1
+Very Unhappy,50,1
+Happy,90,0
+OK,30,0
+Unhappy,21,1
+OK,37,0
+Very Unhappy,23,1
+Happy,61,0
+OK,49,0
+OK,83,0
+OK,82,0
+Happy,76,0
+Very Unhappy,40,1
+Very Happy,89,0
+OK,70,0
+Happy,50,0
+Happy,65,0
+Unhappy,33,1
+Very Unhappy,40,1
+Unhappy,79,1
+Unhappy,89,1
+Happy,90,0
+Very Unhappy,25,1
+OK,54,0
+OK,21,0
+Unhappy,66,1
+OK,59,0
+Unhappy,66,1
+Very Unhappy,84,1
+Unhappy,46,1
+Very Unhappy,24,1
+Unhappy,88,1
+Happy,89,0
+OK,62,0
+Very Unhappy,47,1
+Very Happy,23,0
+Happy,89,0
+OK,20,0
+Unhappy,38,1
+Very Happy,81,0
+Very Unhappy,47,1
+Very Happy,73,0
+Happy,42,0
+Unhappy,81,1
+OK,65,0
+Happy,88,0
+OK,62,0
+Very Unhappy,31,1
+OK,75,0
+Very Unhappy,59,1
+Unhappy,73,1
+Very Unhappy,20,1
+Unhappy,73,1
+Very Unhappy,69,1
+Very Unhappy,72,1
+Happy,90,0
+OK,62,0
+OK,84,0
+OK,18,0
+Very Happy,89,0
+Happy,34,0
+Very Happy,89,0
+Happy,84,0
+Unhappy,43,1
+Unhappy,77,1
+Unhappy,52,1
+Unhappy,69,1
+OK,22,0
+Happy,83,0
+Very Happy,55,0
+Unhappy,23,1
+OK,57,0
+Very Happy,79,0
+Very Unhappy,41,1
+Happy,23,0
+Happy,71,0
+Happy,20,0
+Very Happy,71,0
+Very Happy,63,0
+Very Unhappy,90,1
+Very Unhappy,33,1
+Very Happy,43,0
+Very Unhappy,87,1
+Very Happy,57,0
+Happy,78,0
+Very Unhappy,83,1
+Very Unhappy,27,1
+Unhappy,21,1
+Very Happy,85,0
+OK,56,0
+Very Happy,36,0
+OK,30,0
+Unhappy,57,1
+Unhappy,34,1
+Happy,54,0
+Happy,82,0
+Unhappy,67,1
+Unhappy,76,1
+Very Happy,64,0
+Unhappy,73,1
+Very Unhappy,65,1
+Very Happy,65,0
+OK,71,0
+Very Unhappy,36,1
+Happy,41,0
+Happy,44,0
+Very Unhappy,28,1
+Very Happy,90,0
+Very Unhappy,52,1
+Happy,55,0
+Very Unhappy,86,1
+Unhappy,41,1
+Very Unhappy,86,1
+Happy,29,0
+Very Unhappy,51,1
+Very Unhappy,57,1
+OK,62,0
+Very Unhappy,21,1
+Happy,46,0
+Happy,57,0
+OK,33,0
+Very Happy,85,0
+OK,66,0
+Unhappy,87,1
+Very Unhappy,69,1
+Very Unhappy,27,1
+Very Unhappy,80,1
+Very Unhappy,51,1
+Unhappy,31,1
+Unhappy,34,1
+Unhappy,48,1
+Unhappy,39,1
+Happy,40,0
+Very Happy,67,0
+Happy,27,0
+Very Happy,67,0
+Very Unhappy,80,1
+OK,86,0
+Very Happy,52,0
+OK,59,0
+Very Unhappy,19,1
+Very Happy,64,0
+Unhappy,20,1
+Unhappy,87,1
+Very Happy,40,0
+Unhappy,63,1
+Happy,53,0
+OK,84,0
+Unhappy,90,1
+OK,71,0
+Unhappy,50,1
+Happy,87,0
+Happy,60,0
+Very Happy,74,0
+Very Unhappy,89,1
+Very Happy,43,0
+Happy,21,0
+Very Unhappy,48,1
+OK,86,0
+Happy,40,0
+Happy,31,0
+Very Happy,37,0
+Unhappy,64,1
+Unhappy,31,1
+OK,71,0
+OK,41,0
+Very Happy,60,0
+Unhappy,36,1
+Unhappy,41,1
+Very Unhappy,83,1
+Unhappy,58,1
+Unhappy,35,1
+Very Happy,31,0
+Very Unhappy,24,1
+Very Unhappy,65,1
+Very Happy,70,0
+Unhappy,40,1
+Unhappy,22,1
